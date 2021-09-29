@@ -4,3 +4,5 @@ def isEven(n):
         return True
     else:
         return False
+
+print(isEven(4))
